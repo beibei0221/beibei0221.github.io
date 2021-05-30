@@ -6,7 +6,7 @@
   <link href="https://beibei0221.github.io/atom.xml" rel="self"/>
   
   <link href="https://beibei0221.github.io/"/>
-  <updated>2021-05-30T10:31:33.350Z</updated>
+  <updated>2021-05-30T11:51:35.879Z</updated>
   <id>https://beibei0221.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://beibei0221.github.io/posts/HelloWorld/"/>
     <id>https://beibei0221.github.io/posts/HelloWorld/</id>
     <published>2021-05-30T09:26:22.000Z</published>
-    <updated>2021-05-30T10:31:33.350Z</updated>
+    <updated>2021-05-30T11:51:35.879Z</updated>
     
     <content type="html"><![CDATA[<span id="more"></span><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
     
@@ -35,7 +35,7 @@
     
     
     
-    <category term="Tech" scheme="https://beibei0221.github.io/categories/Tech/"/>
+    <category term="Development" scheme="https://beibei0221.github.io/categories/Development/"/>
     
     
     <category term="HTML" scheme="https://beibei0221.github.io/tags/HTML/"/>
