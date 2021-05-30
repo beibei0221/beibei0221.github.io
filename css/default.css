@@ -10981,6 +10981,9 @@ a.article-nav-next span {
 .navbar-logo img {
   max-height: 1.75rem;
 }
+footer.footer {
+  padding: 3rem 1.5rem;
+}
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
     text-align: center;
