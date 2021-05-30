@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Beibei&#39;s Blog</title>
+  
+  
+  <link href="https://beibei0221.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://beibei0221.github.io/"/>
+  <updated>2021-05-30T09:41:38.553Z</updated>
+  <id>https://beibei0221.github.io/</id>
+  
+  <author>
+    <name>Beibei</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://beibei0221.github.io/posts/HelloWorld/"/>
+    <id>https://beibei0221.github.io/posts/HelloWorld/</id>
+    <published>2021-05-30T09:26:22.000Z</published>
+    <updated>2021-05-30T09:41:38.553Z</updated>
+    
+    <content type="html"><![CDATA[<span id="more"></span><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
